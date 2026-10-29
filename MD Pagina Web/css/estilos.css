@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta+Mahee:wght@200;300;400;500;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 0px;
+}
+
+#Titulo{
+    width: 100%;
+    height: 65px;
+    background-color: rgb(0, 0, 0);
+}
+
+#Textoheader{
+    color: rgb(190, 135, 68);
+    font-family: Tangerine;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Productos{
+  background-color: rgb(59, 58, 58);
+  width: 100%;
+  height: 550px;
+}
+
+#Producto_1{
+    height: 490px;
+    background-color: rgb(134, 138, 134);
+    width: 245px;
+    border: 3px solid #c3bdbdc1;
+    border-radius: 10px;
+    margin-left: 13px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#TextoProducto1{
+    font-family: Mukta Mahee;
+    font-size: 14px;
+    text-align: center;
+    color: rgba(255, 255, 254, 0.897);
+    border-radius: 10px;
+}
+
+#CremaBarba{
+ width: 200px;
+ height: 200px;
+ border: 5px solid #000000;
+ border-radius: 10px;
+ margin-left: 20px;
+ margin-top: 2px;
+}
+
+#Producto_2{
+ height: 462px;
+     background-color: rgb(134, 138, 134);
+    width: 245px;
+    border: 3px solid #c3bdbdc1;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+
+#CremaAlmendras{
+    width: 190px;
+    height: 190px;
+    margin-left: 20px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    margin-top: 2px;
+}
+
+#TextoProducto2{
+    font-family: Mukta Mahee;
+    font-size: 14px;
+    text-align: center;
+    color: rgba(255, 255, 254, 0.897);
+    margin-top: 5px;
+}
+
+#Producto_3{
+    height: 488px;
+     background-color: rgb(134, 138, 134);
+    width: 245px;
+    border: 3px solid #c3bdbdc1;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+#TextoProducto3{
+    font-family: Mukta Mahee;
+    font-size: 13.018px;
+    text-align: center;
+    color: rgba(255, 255, 254, 0.897);
+    margin-top: 5px;
+}
+
+#ShampooMielAbeja{
+    width: 190px;
+    height: 190px;
+    margin-left: 20px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    margin-top: 2px;
+}
+
+#Producto_4{
+    height: 463px;
+    background-color: rgb(134, 138, 134);
+    width: 245px;
+    border: 3px solid #c3bdbdc1;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+#TextoProducto4{
+    font-family: Mukta Mahee;
+    font-size: 18px;
+    text-align: center;
+    color: rgba(255, 255, 254, 0.897);
+    margin-top: 5px;
+}
+
+#Collar{
+   width: 190px;
+    height: 190px;
+    margin-left: 19px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    margin-top: 2px; 
+}
+
+#Producto_5{
+   height: 490px;
+    background-color: rgb(134, 138, 134);
+    width: 245px;
+    border: 3px solid #c3bdbdc1;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 5px;
+    display: inline-block; 
+}
+
+#TextoProducto5{
+   font-family: Mukta Mahee;
+    font-size: 15.8px;
+    text-align: center;
+    color: rgba(255, 255, 254, 0.897);
+    margin-top: 5px; 
+}
+
+#CremaZanahoria{
+   width: 190px;
+    height: 190px;
+    margin-left: 19px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    margin-top: 2px; 
+}
+
+#Informacion{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(159, 158, 154, 0.942);
+}
+
+#HeaderInformacion{
+     width: 100%;
+    height: 60px;
+    background-color: rgb(190, 135, 68);;
+}
+
+#TituloInformacion{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#Mapa{
+    width: 100%;
+    height: 280px;
+}
+
+#NumeroTelefonico{
+  margin-left: 100px;
+  margin-top: 70px;
+  background-color: rgb(42, 165, 44);
+  height: 50px;
+  width: 250px;
+  border: solid 3px green;
+  border-radius: 7px;
+  display: inline-block;
+}
+
+#Telefono{
+    text-align: center;
+    font-family: Mukta Mahee;
+    font-size: 25px;
+    color: white;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#Whatsapp-Logo{
+  width: 41px;
+  height: 41px;
+  display: inline-block;
+}
+
+#CorreoElectronico{
+   height: 52px;
+   width: 370px;
+   background-color: white;
+   border: red solid 3px;
+   border-radius: 7px;
+   display: inline-block;
+   margin-left: 15px;
+}
+
+#Gmail_logo{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+#Correo{
+    text-align: center;
+    font-family: Mukta Mahee;
+    font-size: 20px;
+    color: #000000;
+    margin-left: 8px;
+}
+
